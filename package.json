@@ -1,0 +1,16 @@
+{
+  "name": "understanding-typescript-maximilian-schwarzmuller",
+  "version": "1.0.0",
+  "description": "Udemy TS course",
+  "main": "index.js",
+  "scripts": {
+    "server": "lite-server",
+    "start": "tsc --watch",
+    "test": ""
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
